@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Thailand-TH"
+locale                   : "Thailand-TH-CNX"
 title                    : "Nathapon Udomlertsakul, PhD"
 title_separator          : "-"
 name                     : &name "Your Name"
